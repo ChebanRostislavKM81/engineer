@@ -18,14 +18,32 @@ Now you need to open another terminal and input these commands:
 
 
 If you run it on Windows:
+
+
 ```py -m venv new_env```
+
+
 ```new_env\Scripts\activate.bat```
+
+
 ```pip install -r requiremtns.txt```
+
+
 ```py main.py```
 
+
+
 If you run it on Linux/Mac:
+
+
 ```python3 -m venv new_env```
+
+
 ```new_env\Scripts\activate.bat```
+
+
 ```pip install -r requiremtns.txt```
+
+
 ```python3 main.py```
 
