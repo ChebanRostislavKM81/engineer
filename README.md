@@ -39,7 +39,7 @@ If you run it on Linux/Mac:
 ```python3 -m venv new_env```
 
 
-```new_env\Scripts\activate.bat```
+```source new_env/bin/activate```
 
 
 ```pip install -r requiremtns.txt```
