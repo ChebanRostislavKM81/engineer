@@ -8,7 +8,7 @@ If you have not got any postgres server, open ```localhost:8081```, connect to P
 #### Server parametrs: host name/address = db, maintenance database = postgres, username = postgres, password = postgres
 
 
-After you make sure that you have postgres server, change the ```.env``` file with your database name, username and password. 
+After you make sure that you have postgres server, сheck the ```.env``` file with your database name, username and password. 
 
 
 Also you have to print your path to Downloads(folder, where your web-site downloads stored) into ```download_path``` variable
